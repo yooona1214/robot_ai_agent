@@ -1,0 +1,68 @@
+{
+    "input": {
+        "poi_list": [
+            "(24, 25, 4)",
+            "(28, 99, 1)",
+            "(91, 51, 4)"
+        ]
+    },
+    "output": {
+        "goal": {
+            "service_id": "20240905191944",
+            "utterance": "레오나르도 다빈치의 작품이 있니?",
+            "task_num": 3,
+            "task_list": [
+                {
+                    "task_order": 1,
+                    "service_code": 103,
+                    "POI": "(24, 25, 4)",
+                    "artist": "Leonardo da Vinci",
+                    "name": "Lady with an Ermine",
+                    "task_detail": {
+                        "vel": "normal",
+                        "BGM": null,
+                        "LED_effect": "dimming",
+                        "LED_color": "blue"
+                    }
+                },
+                {
+                    "task_order": 2,
+                    "service_code": 103,
+                    "POI": "(28, 99, 1)",
+                    "artist": "Leonardo da Vinci",
+                    "name": "The Last Supper",
+                    "task_detail": {
+                        "vel": "normal",
+                        "BGM": null,
+                        "LED_effect": "dimming",
+                        "LED_color": "blue"
+                    }
+                },
+                {
+                    "task_order": 3,
+                    "service_code": 103,
+                    "POI": "(91, 51, 4)",
+                    "artist": "Leonardo da Vinci",
+                    "name": "Mona Lisa",
+                    "task_detail": {
+                        "vel": "normal",
+                        "BGM": null,
+                        "LED_effect": "dimming",
+                        "LED_color": "blue"
+                    }
+                }
+  
+                
+            ],
+            "global_condition": {
+                "order": "거리순",
+                "robot_pose": {
+                    "x": null,
+                    "y": null
+                }
+            },
+            "goal_generated": true,
+            "goal_verified": false
+        }
+    }
+}

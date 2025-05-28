@@ -1,0 +1,23 @@
+{
+    "goal": {
+        "service_id": null,
+        "utterance" : null,
+        "task_num" : null, 
+		"task_list": [{ 
+            "task_id": null,
+            "POI" : null,
+			"task_detail": {
+                "TTS": null,
+                "vel": null,
+                "LED": null,
+                "LED_effect": null
+            }
+        }],
+        "global_condition" : {
+            "order" : null,
+            "robot_pose" : {"x": null, "y" : null}
+        },
+        "goal_generated": false,
+        "goal_verified": false
+        }
+}

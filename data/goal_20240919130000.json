@@ -1,0 +1,197 @@
+{
+    "2000년대_연구소역사전시": {
+        "service_id": "142",
+        "goal_count": 1,
+        "task_list": [
+            {
+                "service_code": 103,
+                "task_id": 1,
+                "tray_id": 1,
+                "map_id": "1층-융기원-20240905154025",
+                "goal_id": "연구소역사00년대",
+                "seq": 0,
+                "lock_option": 1
+            }
+        ]
+    },
+    "1990년대_연구소역사전시": {
+        "service_id": "142",
+        "goal_count": 1,
+        "task_list": [
+            {
+                "service_code": 103,
+                "task_id": 1,
+                "tray_id": 1,
+                "map_id": "1층-융기원-20240905154025",
+                "goal_id": "연구소역사90년대",
+                "seq": 0,
+                "lock_option": 1
+            }
+        ]
+    },
+    "박석원_미술작품_1": {
+        "service_id": "142",
+        "goal_count": 1,
+        "task_list": [
+            {
+                "service_code": 103,
+                "task_id": 1,
+                "tray_id": 1,
+                "map_id": "1층-융기원-20240905154025",
+                "goal_id": "박석원작품1",
+                "seq": 0,
+                "lock_option": 1
+            }
+        ]
+    },
+    "박석원_미술작품_2": {
+        "service_id": "142",
+        "goal_count": 1,
+        "task_list": [
+            {
+                "service_code": 103,
+                "task_id": 1,
+                "tray_id": 1,
+                "map_id": "1층-융기원-20240905154025",
+                "goal_id": "박석원작품2",
+                "seq": 0,
+                "lock_option": 1
+            }
+        ]
+    },
+    "윤명로_미술작품": {
+        "service_id": "142",
+        "goal_count": 1,
+        "task_list": [
+            {
+                "service_code": 103,
+                "task_id": 1,
+                "tray_id": 1,
+                "map_id": "1층-융기원-20240905154025",
+                "goal_id": "윤명로작품",
+                "seq": 0,
+                "lock_option": 1
+            }
+        ]
+    },
+    "스마트단말SW팀_사무실": {
+        "service_id": "142",
+        "goal_count": 1,
+        "task_list": [
+            {
+                "service_code": 103,
+                "task_id": 1,
+                "tray_id": 1,
+                "map_id": "1층-융기원-20240905154025",
+                "goal_id": "스마트단말SW연구",
+                "seq": 0,
+                "lock_option": 1
+            }
+        ]
+    },
+    "남자화장실": {
+        "service_id": "142",
+        "goal_count": 1,
+        "task_list": [
+            {
+                "service_code": 103,
+                "task_id": 1,
+                "tray_id": 1,
+                "map_id": "1층-융기원-20240905154025",
+                "goal_id": "남자화장실",
+                "seq": 0,
+                "lock_option": 1
+            }
+        ]
+    },
+    "여자화장실": {
+        "service_id": "142",
+        "goal_count": 1,
+        "task_list": [
+            {
+                "service_code": 103,
+                "task_id": 1,
+                "tray_id": 1,
+                "map_id": "1층-융기원-20240905154025",
+                "goal_id": "여자화장실1",
+                "seq": 0,
+                "lock_option": 1
+            }
+        ]
+    },
+    "매점": {
+        "service_id": "142",
+        "goal_count": 1,
+        "task_list": [
+            {
+                "service_code": 103,
+                "task_id": 1,
+                "tray_id": 1,
+                "map_id": "1층-융기원-20240905154025",
+                "goal_id": "매점",
+                "seq": 0,
+                "lock_option": 1
+            }
+        ]
+    },
+    "QR코드_부착장소": {
+        "service_id": "142",
+        "goal_count": 1,
+        "task_list": [
+            {
+                "service_code": 103,
+                "task_id": 1,
+                "tray_id": 1,
+                "map_id": "1층-융기원-20240905154025",
+                "goal_id": "Q-113",
+                "seq": 0,
+                "lock_option": 1
+            }
+        ]
+    },
+    "로봇AX솔루션팀_사무실": {
+        "service_id": "142",
+        "goal_count": 1,
+        "task_list": [
+            {
+                "service_code": 103,
+                "task_id": 1,
+                "tray_id": 1,
+                "map_id": "1층-융기원-20240905154025",
+                "goal_id": "로봇AX솔루션",
+                "seq": 0,
+                "lock_option": 1
+            }
+        ]
+    },
+    "카페": {
+        "service_id": "142",
+        "goal_count": 1,
+        "task_list": [
+            {
+                "service_code": 103,
+                "task_id": 1,
+                "tray_id": 1,
+                "map_id": "1층-융기원-20240905154025",
+                "goal_id": "카페",
+                "seq": 0,
+                "lock_option": 1
+            }
+        ]
+    },
+    "식당": {
+        "service_id": "142",
+        "goal_count": 1,
+        "task_list": [
+            {
+                "service_code": 103,
+                "task_id": 1,
+                "tray_id": 1,
+                "map_id": "1층-융기원-20240905154025",
+                "goal_id": "식당",
+                "seq": 0,
+                "lock_option": 1
+            }
+        ]
+    }
+}

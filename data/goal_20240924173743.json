@@ -1,0 +1,16 @@
+{
+    "식당": {
+        "service_id": "142",
+        "goal_count": 1,
+        "task_list": [
+            {
+                "service_code": 103,
+                "task_id": "1",
+                "map_id": "1층-융기원-20240905154025",
+                "goal_id": "식당",
+                "seq": 0,
+                "lock_option": 1
+            }
+        ]
+    }
+}

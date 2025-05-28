@@ -1,0 +1,17 @@
+{
+    "남자화장실": {
+        "service_id": "142",
+        "goal_count": 1,
+        "task_list": [
+            {
+                "service_code": 103,
+                "task_id": 1,
+                "tray_id": 1,
+                "map_id": 0,
+                "goal_id": "남자화장실",
+                "seq": 1,
+                "lock_option": 1
+            }
+        ]
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "input": {
+        "poi_list": [
+            "(24, 25, 4)",
+            "(28, 99, 1)",
+            "(91, 51, 4)",
+            "(46, 96, 2)",
+            "(28, 96, 4)"
+        ]
+    },
+    "output": {
+        "goal": {
+            "service_id": "20240905191007",
+            "utterance": "레오나르도 다8이스의 모든 작품을 소개해줘",
+            "task_num": 5,
+            "task_list": [
+                {
+                    "task_order": 1,
+                    "task_id": 1,
+                    "POI": "(24, 25, 4)",
+                    "artist": "Leonardo da Vinci",
+                    "name": "Lady with an Ermine",
+                    "task_detail": {
+                        "vel": "normal",
+                        "BGM": null,
+                        "LED_effect": "on",
+                        "LED_color": "blue"
+                    }
+                },
+                {
+                    "task_order": 2,
+                    "task_id": 2,
+                    "POI": "(28, 99, 1)",
+                    "artist": "Leonardo da Vinci",
+                    "name": "The Last Supper",
+                    "task_detail": {
+                        "vel": "normal",
+                        "BGM": null,
+                        "LED_effect": "on",
+                        "LED_color": "blue"
+                    }
+                },
+                {
+                    "task_order": 3,
+                    "task_id": 3,
+                    "POI": "(91, 51, 4)",
+                    "artist": "Leonardo da Vinci",
+                    "name": "Mona Lisa",
+                    "task_detail": {
+                        "vel": "normal",
+                        "BGM": null,
+                        "LED_effect": "on",
+                        "LED_color": "blue"
+                    }
+                },
+                {
+                    "task_order": 4,
+                    "task_id": 4,
+                    "POI": "(46, 96, 2)",
+                    "artist": "Vincent van Gogh",
+                    "name": "Starry Night",
+                    "task_detail": {
+                        "vel": "normal",
+                        "BGM": null,
+                        "LED_effect": "on",
+                        "LED_color": "blue"
+                    }
+                },
+                {
+                    "task_order": 5,
+                    "task_id": 5,
+                    "POI": "(28, 96, 4)",
+                    "artist": "Jean-François Millet",
+                    "name": "The Gleaners",
+                    "task_detail": {
+                        "vel": "normal",
+                        "BGM": null,
+                        "LED_effect": "on",
+                        "LED_color": "blue"
+                    }
+                }
+            ],
+            "global_condition": {
+                "order": "artist",
+                "robot_pose": {
+                    "x": null,
+                    "y": null
+                }
+            },
+            "goal_generated": true,
+            "goal_verified": false
+        }
+    }
+}

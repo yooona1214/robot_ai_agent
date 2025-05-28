@@ -1,0 +1,54 @@
+{
+    "input": "Poi_list: ['(50, 81, 1)', '(26, 43, 5)', '(69, 39, 3)', '(9, 71, 4)', '(5, 78, 2)']",
+    "output": {
+        "goal": {
+            "service_id": "2024-09-05T18:00:15",
+            "utterance": "고흐의 작품을 안내해줘",
+            "task_num": 3,
+            "task_list": [
+                {
+                    "task_order": 1,
+                    "task_id": 1,
+                    "POI": "(50, 81, 1)",
+                    "task_detail": {
+                        "vel": "normal",
+                        "BGM": null,
+                        "LED_effect": "on",
+                        "LED_color": "blue"
+                    }
+                },
+                {
+                    "task_order": 2,
+                    "task_id": 2,
+                    "POI": "(69, 39, 3)",
+                    "task_detail": {
+                        "vel": "normal",
+                        "BGM": null,
+                        "LED_effect": "on",
+                        "LED_color": "blue"
+                    }
+                },
+                {
+                    "task_order": 3,
+                    "task_id": 3,
+                    "POI": "(26, 43, 5)",
+                    "task_detail": {
+                        "vel": "normal",
+                        "BGM": null,
+                        "LED_effect": "on",
+                        "LED_color": "blue"
+                    }
+                }
+            ],
+            "global_condition": {
+                "order": "사용자의 발화에 요청에 따른 순서",
+                "robot_pose": {
+                    "x": null,
+                    "y": null
+                }
+            },
+            "goal_generated": true,
+            "goal_verified": false
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "input": "Poi_list: ['(24, 25, 4)', '(91, 51, 4)', '(28, 96, 4)', '(46, 95, 1)', '(26, 43, 5)', '(50, 81, 1)', '(79, 7, 4)', '(46, 96, 2)', '(15, 35, 3)', '(94, 22, 4)']",
+    "output": {
+        "goal": {
+            "service_id": "2024-09-05T19:03:21",
+            "utterance": "레오나르도 다빈치랑 고흐의 작품이 있니?",
+            "task_num": 5,
+            "task_list": [
+                {
+                    "task_order": 1,
+                    "task_id": 1,
+                    "POI": "(24, 25, 4)",
+                    "task_detail": {
+                        "vel": "normal",
+                        "BGM": null,
+                        "LED_effect": "on",
+                        "LED_color": "green"
+                    }
+                },
+                {
+                    "task_order": 2,
+                    "task_id": 2,
+                    "POI": "(91, 51, 4)",
+                    "task_detail": {
+                        "vel": "normal",
+                        "BGM": null,
+                        "LED_effect": "on",
+                        "LED_color": "green"
+                    }
+                },
+                {
+                    "task_order": 3,
+                    "task_id": 3,
+                    "POI": "(46, 96, 2)",
+                    "task_detail": {
+                        "vel": "normal",
+                        "BGM": null,
+                        "LED_effect": "on",
+                        "LED_color": "green"
+                    }
+                },
+                {
+                    "task_order": 4,
+                    "task_id": 4,
+                    "POI": "(28, 96, 4)",
+                    "task_detail": {
+                        "vel": "normal",
+                        "BGM": null,
+                        "LED_effect": "on",
+                        "LED_color": "green"
+                    }
+                },
+                {
+                    "task_order": 5,
+                    "task_id": 5,
+                    "POI": "(15, 35, 3)",
+                    "task_detail": {
+                        "vel": "normal",
+                        "BGM": null,
+                        "LED_effect": "on",
+                        "LED_color": "green"
+                    }
+                }
+            ],
+            "global_condition": {
+                "order": "artist",
+                "robot_pose": {
+                    "x": null,
+                    "y": null
+                }
+            },
+            "goal_generated": true,
+            "goal_verified": false
+        }
+    }
+}

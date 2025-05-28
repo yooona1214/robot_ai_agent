@@ -1,0 +1,64 @@
+Poi,Name,Artist,TTS path
+"(91, 51, 4)",Mona Lisa,Leonardo da Vinci,/TTS/mona_lisa_leonardo_da_vinci.mp4
+"(46, 96, 2)",Starry Night,Vincent van Gogh,/TTS/starry_night_vincent_van_gogh.mp4
+"(28, 99, 1)",The Last Supper,Leonardo da Vinci,/TTS/the_last_supper_leonardo_da_vinci.mp4
+"(40, 86, 1)",The Scream,Edvard Munch,/TTS/the_scream_edvard_munch.mp4
+"(11, 76, 2)",The Birth of Venus,Sandro Botticelli,/TTS/the_birth_of_venus_sandro_botticelli.mp4
+"(63, 76, 1)",The School of Athens,Raphael,/TTS/the_school_of_athens_raphael.mp4
+"(56, 94, 3)",Café Terrace at Night,Vincent van Gogh,/TTS/café_terrace_at_night_vincent_van_gogh.mp4
+"(11, 60, 5)",The Kiss,Gustav Klimt,/TTS/the_kiss_gustav_klimt.mp4
+"(33, 78, 5)",The Death of Marat,Jacques-Louis David,/TTS/the_death_of_marat_jacques-louis_david.mp4
+"(84, 3, 1)",The Son of Man,René Magritte,/TTS/the_son_of_man_rené_magritte.mp4
+"(28, 69, 2)",Guernica,Pablo Picasso,/TTS/guernica_pablo_picasso.mp4
+"(96, 55, 2)",The Persistence of Memory,Salvador Dalí,/TTS/the_persistence_of_memory_salvador_dalí.mp4
+"(76, 89, 5)",Girl with a Pearl Earring,Johannes Vermeer,/TTS/girl_with_a_pearl_earring_johannes_vermeer.mp4
+"(13, 19, 4)",American Gothic,Grant Wood,/TTS/american_gothic_grant_wood.mp4
+"(22, 1, 5)",The Night Watch,Rembrandt,/TTS/the_night_watch_rembrandt.mp4
+"(86, 13, 5)",The Garden of Earthly Delights,Hieronymus Bosch,/TTS/the_garden_of_earthly_delights_hieronymus_bosch.mp4
+"(81, 38, 3)",The Creation of Adam,Michelangelo,/TTS/the_creation_of_adam_michelangelo.mp4
+"(51, 48, 3)",Liberty Leading the People,Eugène Delacroix,/TTS/liberty_leading_the_people_eugène_delacroix.mp4
+"(43, 60, 3)",The Arnolfini Portrait,Jan van Eyck,/TTS/the_arnolfini_portrait_jan_van_eyck.mp4
+"(34, 95, 2)",The Hay Wain,John Constable,/TTS/the_hay_wain_john_constable.mp4
+"(84, 85, 5)",The Swing,Jean-Honoré Fragonard,/TTS/the_swing_jean-honoré_fragonard.mp4
+"(25, 58, 2)",Las Meninas,Diego Velázquez,/TTS/las_meninas_diego_velázquez.mp4
+"(72, 87, 3)",The Raft of the Medusa,Théodore Géricault,/TTS/the_raft_of_the_medusa_théodore_géricault.mp4
+"(29, 23, 5)",The Dance,Henri Matisse,/TTS/the_dance_henri_matisse.mp4
+"(45, 5, 5)",The Sleeping Gypsy,Henri Rousseau,/TTS/the_sleeping_gypsy_henri_rousseau.mp4
+"(97, 40, 4)",Whistler's Mother,James McNeill Whistler,/TTS/whistler's_mother_james_mcneill_whistler.mp4
+"(64, 49, 4)",Nighthawks,Edward Hopper,/TTS/nighthawks_edward_hopper.mp4
+"(1, 71, 4)",The Third of May 1808,Francisco Goya,/TTS/the_third_of_may_1808_francisco_goya.mp4
+"(79, 7, 4)",Water Lilies,Claude Monet,/TTS/water_lilies_claude_monet.mp4
+"(87, 90, 4)",Bal du moulin de la Galette,Pierre-Auguste Renoir,/TTS/bal_du_moulin_de_la_galette_pierre-auguste_renoir.mp4
+"(10, 32, 4)",The Fighting Temeraire,J.M.W. Turner,/TTS/the_fighting_temeraire_j.m.w._turner.mp4
+"(67, 52, 3)",Luncheon of the Boating Party,Pierre-Auguste Renoir,/TTS/luncheon_of_the_boating_party_pierre-auguste_renoir.mp4
+"(15, 15, 4)",The Great Wave off Kanagawa,Hokusai,/TTS/the_great_wave_off_kanagawa_hokusai.mp4
+"(95, 23, 5)","Impression, Sunrise",Claude Monet,"/TTS/impression,_sunrise_claude_monet.mp4"
+"(20, 3, 1)",The Thinker,Auguste Rodin,/TTS/the_thinker_auguste_rodin.mp4
+"(28, 84, 1)",Venus de Milo,Alexandros of Antioch,/TTS/venus_de_milo_alexandros_of_antioch.mp4
+"(76, 47, 3)",The Card Players,Paul Cézanne,/TTS/the_card_players_paul_cézanne.mp4
+"(68, 92, 3)",The Storm on the Sea of Galilee,Rembrandt,/TTS/the_storm_on_the_sea_of_galilee_rembrandt.mp4
+"(97, 62, 4)",The Blue Boy,Thomas Gainsborough,/TTS/the_blue_boy_thomas_gainsborough.mp4
+"(19, 98, 4)",The Birth of the Virgin,Fra Angelico,/TTS/the_birth_of_the_virgin_fra_angelico.mp4
+"(93, 94, 1)",The Oath of the Horatii,Jacques-Louis David,/TTS/the_oath_of_the_horatii_jacques-louis_david.mp4
+"(74, 49, 4)",The Sleeping Venus,Giorgione,/TTS/the_sleeping_venus_giorgione.mp4
+"(22, 14, 4)",The Triumph of Galatea,Raphael,/TTS/the_triumph_of_galatea_raphael.mp4
+"(93, 2, 3)",Olympia,Édouard Manet,/TTS/olympia_édouard_manet.mp4
+"(32, 46, 2)",The Burial of the Count of Orgaz,El Greco,/TTS/the_burial_of_the_count_of_orgaz_el_greco.mp4
+"(13, 97, 4)",The Beheading of Saint John the Baptist,Caravaggio,/TTS/the_beheading_of_saint_john_the_baptist_caravaggio.mp4
+"(81, 88, 2)",The Gross Clinic,Thomas Eakins,/TTS/the_gross_clinic_thomas_eakins.mp4
+"(28, 79, 2)",The Gulf Stream,Winslow Homer,/TTS/the_gulf_stream_winslow_homer.mp4
+"(69, 39, 3)",The Red Vineyard,Vincent van Gogh,/TTS/the_red_vineyard_vincent_van_gogh.mp4
+"(94, 22, 4)",The Horse Fair,Rosa Bonheur,/TTS/the_horse_fair_rosa_bonheur.mp4
+"(73, 36, 3)",Ballet Rehearsal,Edgar Degas,/TTS/ballet_rehearsal_edgar_degas.mp4
+"(46, 95, 1)",The Annunciation,Leonardo da Vinci,/TTS/the_annunciation_leonardo_da_vinci.mp4
+"(16, 95, 2)",The Haystack,Claude Monet,/TTS/the_haystack_claude_monet.mp4
+"(28, 96, 4)",The Gleaners,Jean-François Millet,/TTS/the_gleaners_jean-françois_millet.mp4
+"(24, 25, 4)",Lady with an Ermine,Leonardo da Vinci,/TTS/lady_with_an_ermine_leonardo_da_vinci.mp4
+"(24, 47, 4)",The Tower of Babel,Pieter Bruegel the Elder,/TTS/the_tower_of_babel_pieter_bruegel_the_elder.mp4
+"(23, 57, 1)",The Fall of Icarus,Pieter Bruegel the Elder,/TTS/the_fall_of_icarus_pieter_bruegel_the_elder.mp4
+"(50, 81, 1)",The Night Café,Vincent van Gogh,/TTS/the_night_café_vincent_van_gogh.mp4
+"(15, 35, 3)",Nocturne in Black and Gold,James McNeill Whistler,/TTS/nocturne_in_black_and_gold_james_mcneill_whistler.mp4
+"(51, 83, 2)",The Red Room,Henri Matisse,/TTS/the_red_room_henri_matisse.mp4
+"(74, 31, 1)",A Sunday Afternoon on the Island of La Grande Jatte,Georges Seurat,/TTS/a_sunday_afternoon_on_the_island_of_la_grande_jatte_georges_seurat.mp4
+"(68, 56, 4)",The Arnolfini Wedding,Jan van Eyck,/TTS/the_arnolfini_wedding_jan_van_eyck.mp4
+"(26, 43, 5)",The Starry Night,Vincent van Gogh,/TTS/the_starry_night_vincent_van_gogh.mp4
